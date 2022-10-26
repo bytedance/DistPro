@@ -3,6 +3,9 @@
 This is the official release of ["DistPro: Searching A Fast Knowledge Distillation Process via Meta Optimization"](https://arxiv.org/abs/2204.05547) ECCV 2022. 
 ![Alt text](distpro_overview.jpg?raw=true "Comparisons to other methods")
 
+Our method can achieve faster distillation training on ImageNet1K
+![Alt text](imagenet.jpg?raw=true "Performance on ImageNet1K")
+
 ## Installation
 
 ```bash
